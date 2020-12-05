@@ -6,11 +6,9 @@
 	zoom: 0;
 }
 html, body {
-	background:url(./gst.webp);
+	background-image: linear-gradient(red, rgb(243, 157, 157));
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	height: 70vh;
+	height: 100vh;
 	width: 100vw;
 	font-size: 20px;
 	font-family: arial;
